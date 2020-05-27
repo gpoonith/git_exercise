@@ -1,0 +1,11 @@
+#!/usr/bin/python3
+
+#Printing some details
+
+print("********************************")
+print("* Author: Girish Kumar POONITH *")
+print("* Description: Print Some Text *")
+print("* Program: Python              *")
+print("********************************")
+
+
